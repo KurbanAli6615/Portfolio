@@ -11,10 +11,6 @@
     border-radius: 10px;
 }
 
-
-.overCover:hover{
-    
-}
 .box1{
     width: auto;
     height: auto;
@@ -96,4 +92,10 @@
       align-content: right;
       /* margin-left: auto;
       margin-right: 0px; */
+}
+
+/* NAV BAR */
+
+.dropdown-menu{
+   overflow-y: scroll;
 }
